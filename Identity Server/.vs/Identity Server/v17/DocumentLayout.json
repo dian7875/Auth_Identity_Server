@@ -1,7 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\scorp\\GitRep\\ParadigmasPR1\\Auth_Identity_Server\\Identity Server\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Maria Paula\\Desktop\\Auth_Identity_Server\\Identity Server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE7C20A-F2B2-40B2-BFD9-8F2F7DCBA88F}|..\\Identity_Server.Application\\Identity_Server.Application.csproj|c:\\users\\maria paula\\desktop\\auth_identity_server\\identity_server.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66BCE76D-3E62-4CF7-A62F-EEC8513FCB2D}|..\\Identity_Server.Infrastructure\\Identity_Server.Infrastructure.csproj|c:\\users\\maria paula\\desktop\\auth_identity_server\\identity_server.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{411745A8-4930-464B-B566-03938D838A52}|..\\Identity_Server.Domain\\Identity_Server.Domain.csproj|c:\\users\\maria paula\\desktop\\auth_identity_server\\identity_server.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{869230B5-0390-40DA-8152-80F265E26ECB}|Identity Server.csproj|c:\\users\\maria paula\\desktop\\auth_identity_server\\identity server\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{869230B5-0390-40DA-8152-80F265E26ECB}|Identity Server.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{869230B5-0390-40DA-8152-80F265E26ECB}|Identity Server.csproj|c:\\users\\maria paula\\desktop\\auth_identity_server\\identity server\\identity server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{869230B5-0390-40DA-8152-80F265E26ECB}|Identity Server.csproj|solutionrelative:identity server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,19 +27,90 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Maria Paula\\Desktop\\Auth_Identity_Server\\Identity_Server.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\Identity_Server.Application\\Class1.cs",
+              "ToolTip": "C:\\Users\\Maria Paula\\Desktop\\Auth_Identity_Server\\Identity_Server.Application\\Class1.cs",
+              "RelativeToolTip": "..\\Identity_Server.Application\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T01:05:05.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Maria Paula\\Desktop\\Auth_Identity_Server\\Identity_Server.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\Identity_Server.Infrastructure\\Class1.cs",
+              "ToolTip": "C:\\Users\\Maria Paula\\Desktop\\Auth_Identity_Server\\Identity_Server.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "..\\Identity_Server.Infrastructure\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T01:04:33.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Maria Paula\\Desktop\\Auth_Identity_Server\\Identity_Server.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\Identity_Server.Domain\\Class1.cs",
+              "ToolTip": "C:\\Users\\Maria Paula\\Desktop\\Auth_Identity_Server\\Identity_Server.Domain\\Class1.cs",
+              "RelativeToolTip": "..\\Identity_Server.Domain\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T01:03:52.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Maria Paula\\Desktop\\Auth_Identity_Server\\Identity Server\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\Maria Paula\\Desktop\\Auth_Identity_Server\\Identity Server\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-05T01:00:45.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Identity Server.csproj",
+              "DocumentMoniker": "C:\\Users\\Maria Paula\\Desktop\\Auth_Identity_Server\\Identity Server\\Identity Server.csproj",
+              "RelativeDocumentMoniker": "Identity Server.csproj",
+              "ToolTip": "C:\\Users\\Maria Paula\\Desktop\\Auth_Identity_Server\\Identity Server\\Identity Server.csproj",
+              "RelativeToolTip": "Identity Server.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-05T00:30:57.975Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
           "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             }
           ]
         }
